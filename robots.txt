@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://imathis.github.io//github/sitemap.xml 
+Sitemap: http://trtg.github.io/sitemap.xml 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://imathis.github.io//github/atom.xml" rel="self"/>
-  <link href="http://imathis.github.io//github/"/>
-  <updated>2014-01-19T13:43:51-08:00</updated>
-  <id>http://imathis.github.io//github/</id>
+  <link href="http://trtg.github.io/atom.xml" rel="self"/>
+  <link href="http://trtg.github.io/"/>
+  <updated>2014-01-19T14:03:19-08:00</updated>
+  <id>http://trtg.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
