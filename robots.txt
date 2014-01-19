@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://imathis.github.io//github/sitemap.xml 
